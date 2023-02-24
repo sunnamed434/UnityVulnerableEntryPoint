@@ -1,7 +1,7 @@
 ## UnityVulnerableEntryPoint
 UnityVulnerableEntryPoint is a tool that uses **[AsmResolver][asmresolver]** for assembly manipulation and for searching an entry point in your favorite game for cheating, because anti-cheats such as BattlEye have hardcoded checks for modules inside of a game, in this case you can easily find entry point - edit this method via dnSpy or other decompiler and load your cheats in Ring3 (user mode). If you have any questions/issues please let me know **[there][issues]**. You can install the latest version of UnityVulnerableEntryPoint soon.
 
-![Preview image][cli_preview]
+![Preview of CLI][cli_preview]
 
 ## Warning
 If you will find an entry point, be careful because you will be able to play but, it's only 5-6 minutes (tested in BE) and you need to reconnect to the server after being disconnected or find a better way to edit this method.
