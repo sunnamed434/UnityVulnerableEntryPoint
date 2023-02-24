@@ -39,7 +39,7 @@ $ UnityVulnerableEntryPoint.CLI.exe -f <path to the file>
 For this **[post][post_nayrde_uc]** by **[nayrde][nayrde_profile_uc]**, for the knowledge and motivation of creating this magic tool
 
 [asmresolver]: https://github.com/Washi1337/AsmResolver
-[preview]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview.png?token=GHSAT0AAAAAABYREXBUFT5D27CODQCC6DD4Y7YXPGQ
+[cli]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview/CLI.png
 [issues]: https://github.com/sunnamed434/UnityVulnerableEntryPoint/issues
 [download]: soon
 [post_nayrde_uc]: https://www.unknowncheats.me/forum/anti-cheat-bypass/568556-running-own-mono-code-battleye-game.html
