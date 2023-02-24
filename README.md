@@ -1,5 +1,5 @@
 ## UnityVulnerableEntryPoint
-UnityVulnerableEntryPoint is a tool that uses **[AsmResolver][asmresolver]** for assembly manipulation and for searching an entry point in your favorite game for cheating, because anti-cheats such as BattlEye have hardcoded checks for modules inside of a game, in this case you can easily find entry point - edit this method via dnSpy or other decompiler and load your cheats in Ring3 (user mode). If you have any questions/issues please let me know [there](https://github.com/sunnamed434/UnityVulnerableEntryPoint/issues). You can install the latest version of UnityVulnerableEntryPoint [here](PATH TO THE UNKNOWN CHEATS DOWNLOAD).
+UnityVulnerableEntryPoint is a tool that uses **[AsmResolver][asmresolver]** for assembly manipulation and for searching an entry point in your favorite game for cheating, because anti-cheats such as BattlEye have hardcoded checks for modules inside of a game, in this case you can easily find entry point - edit this method via dnSpy or other decompiler and load your cheats in Ring3 (user mode). If you have any questions/issues please let me know **[there][issues]**. You can install the latest version of UnityVulnerableEntryPoint soon.
 
 ![Preview image][preview]
 
@@ -36,6 +36,11 @@ $ UnityVulnerableEntryPoint.CLI.exe -f <path to the file>
 ```
 
 ## Credits
-For this [post](https://www.unknowncheats.me/forum/anti-cheat-bypass/568556-running-own-mono-code-battleye-game.html) and this [nayrde](https://www.unknowncheats.me/forum/members/3941040.html) specificly on unknowncheats, for the knowledge and motivation of creating this magic tool.
+For this **[post][post_nayrde_uc]** by **[nayrde][nayrde_profile_uc]**, for the knowledge and motivation of creating this magic tool
 
-[preview]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview.png
+[asmresolver]: https://github.com/Washi1337/AsmResolver
+[preview]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview.png?token=GHSAT0AAAAAABYREXBUFT5D27CODQCC6DD4Y7YXPGQ
+[issues]: https://github.com/sunnamed434/UnityVulnerableEntryPoint/issues
+[download]: soon
+[post_nayrde_uc]: https://www.unknowncheats.me/forum/anti-cheat-bypass/568556-running-own-mono-code-battleye-game.html
+[nayrde_profile_uc]: https://www.unknowncheats.me/forum/members/3941040.html
