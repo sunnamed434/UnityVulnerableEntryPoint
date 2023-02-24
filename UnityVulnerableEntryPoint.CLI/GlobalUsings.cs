@@ -1,0 +1,11 @@
+global using System;
+global using System.Diagnostics;
+global using System.IO;
+global using System.Linq;
+global using AsmResolver;
+global using AsmResolver.DotNet;
+global using AsmResolver.DotNet.Serialized;
+global using AsmResolver.DotNet.Signatures;
+global using AsmResolver.PE.DotNet.Cil;
+global using CommandLine;
+global using UnityVulnerableEntryPoint.CLI;
