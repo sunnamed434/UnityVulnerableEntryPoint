@@ -1,7 +1,7 @@
 ## UnityVulnerableEntryPoint
 UnityVulnerableEntryPoint is a tool that uses **[AsmResolver][asmresolver]** for assembly manipulation and for searching an entry point in your favorite game for cheating, because anti-cheats such as BattlEye have hardcoded checks for modules inside of a game, in this case you can easily find entry point - edit this method via dnSpy or other decompiler and load your cheats in Ring3 (user mode). If you have any questions/issues please let me know **[there][issues]**. You can install the latest version of UnityVulnerableEntryPoint soon.
 
-![Preview image][preview]
+![Preview image][cli_preview]
 
 ## Warning
 If you will find an entry point, be careful because you will be able to play but, it's only 5-6 minutes (tested in BE) and you need to reconnect to the server after being disconnected or find a better way to edit this method.
@@ -39,7 +39,7 @@ $ UnityVulnerableEntryPoint.CLI.exe -f <path to the file>
 For this **[post][post_nayrde_uc]** by **[nayrde][nayrde_profile_uc]**, for the knowledge and motivation of creating this magic tool
 
 [asmresolver]: https://github.com/Washi1337/AsmResolver
-[cli]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview/CLI.png
+[cli_preview]: https://raw.githubusercontent.com/sunnamed434/UnityVulnerableEntryPoint/master/resources/images/preview/CLI.png
 [issues]: https://github.com/sunnamed434/UnityVulnerableEntryPoint/issues
 [download]: soon
 [post_nayrde_uc]: https://www.unknowncheats.me/forum/anti-cheat-bypass/568556-running-own-mono-code-battleye-game.html
