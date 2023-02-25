@@ -9,7 +9,7 @@ UnityVulnerableEntryPoint is a tool that uses **[AsmResolver][asmresolver]** for
 Tool searches for a `call/callvirt` CIL instructions into the specified file (and because of that this is very important to load all references of the file, to make able to get access to the signature, etc), then takes the `operand` and trying to resolve method from there and make sure if method base type it's not a specified file module and if the base type is `MonoBehaviour`.  
 
 ## Warning
-If you will find an entry point, be careful because you will be able to play but, it's only 5-6 minutes (tested in BE) and you need to reconnect to the server after being disconnected or find a better way to edit this method.
+If you will find an entry point, be careful because you will be able to play but, it's only 5-6 minutes (tested with BE) and you need to reconnect to the server after being disconnected or find a better way to edit this method.
 
 ## How to use
 
